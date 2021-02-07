@@ -6,6 +6,7 @@ eleventyNavigation:
   order: 100
   key: sgsdg
 ---
+![](/static/img/766f.gif)
 
 As climate change looms over us, both countries and firms are seeking
 to move to more sustainable fuels in order to reach net-zero carbon
